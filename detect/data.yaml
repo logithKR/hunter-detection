@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['gun']
+
+roboflow:
+  workspace: new-workspace-tuw0w
+  project: objectdetection-b7kzv
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/new-workspace-tuw0w/objectdetection-b7kzv/dataset/1

@@ -1,0 +1,5 @@
+train: "C:/Users/kalai/OneDrive/Desktop/gun_detection/yolov5/detect/train"
+val: "C:/Users/kalai/OneDrive/Desktop/gun_detection/yolov5/detect/valid"
+nc: 1
+names: ["hunter"]
+
